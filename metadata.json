@@ -1,0 +1,6 @@
+{
+  "name": "SIAKAD SMK",
+  "description": "Sistem Informasi Akademik SMK Kurikulum Merdeka yang dilengkapi absensi biometrik Face Recognition, LMS terintegrasi, Penilaian Harian, pemantauan Capaian Pembelajaran, serta Konselor AI Gemini otomatis untuk Wali Murid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
